@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Maça",
+    "description": "Maça da turma da monica",
+    "price": 2.5,
+    "stock": 8
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "description": "Caturra",
+    "price": 5.0,
+    "stock": 30
+  },
+  {
+    "id": 3,
+    "name": "Pera",
+    "description": "Pera perinha",
+    "price": 20.0,
+    "stock": 50
+  },
+  {
+    "id": 1727307125,
+    "name": "teste",
+    "description": "teste\n",
+    "price": 2.0,
+    "stock": 20
+  }
+]
